@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Telekom/MLflow/Examples/ONNX/mlruns/0/47b599b44b4442658fddb6f7d9feff83/artifacts
+end_time: 1685475504602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47b599b44b4442658fddb6f7d9feff83
+run_name: dapper-cod-626
+run_uuid: 47b599b44b4442658fddb6f7d9feff83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685475504502
+status: 4
+tags: []
+user_id: Bastian

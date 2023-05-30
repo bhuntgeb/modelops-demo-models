@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Telekom/MLflow/Examples/ONNX/mlruns/0/b9161ef0773448ad96126958400cdc22/artifacts
+end_time: 1685475626161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9161ef0773448ad96126958400cdc22
+run_name: gaudy-cod-201
+run_uuid: b9161ef0773448ad96126958400cdc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685475622065
+status: 3
+tags: []
+user_id: Bastian
